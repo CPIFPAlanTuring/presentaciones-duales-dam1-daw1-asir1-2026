@@ -2,7 +2,7 @@
 
 # Presentaciones duales de 1º DAW, 1º DAM, 1ºSMR y 1º ASIR del curso 2025 / 2026
 
-Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma), **1º DAW** (Desarrollo de Aplicaciones Web) y  **1º ASIR** (Administración de Sistemas Informáticos) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
+Horarios, índices a las carpetas y normas para las presentaciones de alumnos duales de **1º DAM** (Desarrollo de Aplicaciones Multiplataforma), **1º DAW** (Desarrollo de Aplicaciones Web), **1º ASIR** (Administración de Sistemas Informáticos) y **1ºSMR** (Sistemas Microinformáticos y Redes) del **CPIFP Alan Turing** (Málaga - PTA) del curso 2025 - 2026.
 
 ## Índice
 
@@ -10,6 +10,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
   * [1ASIR](#1asir)
   * [1DAW, 1DAM mañana](#1daw-1dam-turno-de-mañana)
   * [1DAW, 1DAM tarde](#1daw-1dam-turno-de-tarde)
+  * [1SMR](#1smr)
     
 * [Tiempo para la presentación](#stopwatch-tiempo-para-la-presentación)
 * [Contenido de la presentación](#open_file_folder-contenido-de-la-presentación)
