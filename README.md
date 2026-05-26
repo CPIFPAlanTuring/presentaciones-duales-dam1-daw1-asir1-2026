@@ -27,6 +27,14 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <img height="50px" src="img/altaid.png">
 
 * [Lisa Jeannette Báez Lezcano]()
+* [María del Carmen Calvo Verdaguer]()
+* [Raúl Plaza Chatulani]()
+
+<hr>
+
+<img height="50px" src="img/inerttia.png">
+
+* [José Carlos Bueno Gálvez]()
 
 <hr>
 
