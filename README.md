@@ -44,6 +44,43 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
+<img height="50px" src="img/sms-europa.png">
+
+* [Óscar Gutiérrez Quintana]()
+
+<hr>
+
+<img height="50px" src="img/poli.png">
+
+* [Aitor Jerez Clemente]()
+
+<hr>
+
+<img height="50px" src="img/evad.png">
+
+* [Alejandro Rafael Liñán Tagliaferri]()
+
+<hr>
+
+<img height="50px" src="img/asac.png">
+
+* [Javier Ordóñez De la Higuera]()
+
+<hr>
+
+<img height="50px" src="img/dedalus.JPG">
+
+* [María Ordóñez López]()
+* [Ricardo Sánchez Zaragoza]()
+
+<hr>
+
+<img height="50px" src="img/linkasoft.png">
+
+* [Juan Antonio Ruiz Gómez]()
+
+<hr>
+
 ### 1DAW
 #### :calendar: TBD
 
