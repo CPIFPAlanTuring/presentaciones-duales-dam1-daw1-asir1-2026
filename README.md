@@ -38,6 +38,12 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
+<img height="50px" src="img/polo_digital.png">
+
+* [Óscar Manuel Díaz García]()
+
+<hr>
+
 ### 1DAW
 #### :calendar: TBD
 
