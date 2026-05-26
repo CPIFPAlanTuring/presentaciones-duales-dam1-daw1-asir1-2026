@@ -22,7 +22,7 @@ Horarios, índices a las carpetas y normas para las presentaciones de alumnos du
 Cada alumno debe enlazar con el repositorio donde tiene su presentación (formato elegido y pdf), además de cualquier otra información que considere relevante.
 
 ### 1ASIR
-### :calendar: TBD
+### Por motivos organizativos, este curso se hará una presentación en vídeo individual.
 
 <img height="50px" src="img/clinicapc.png">
 
