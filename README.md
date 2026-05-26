@@ -75,7 +75,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <hr>
 
-<img height="50px" src="img/linkasoft.png">
+<img height="36px" src="img/linkasoft.png">
 
 * [Juan Antonio Ruiz Gómez]()
 
