@@ -24,11 +24,9 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 ### 1ASIR
 ### Por motivos organizativos, este curso se hará una presentación en vídeo individual.
 
-<img height="50px" src="img/clinicapc.png">
+<img height="50px" src="img/altaid.png">
 
-Hora de comienzo: TBD
-
-* [Alumno]()
+* [Lisa Jeannette Báez Lezcano]()
 
 <hr>
 
