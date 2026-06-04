@@ -40,44 +40,44 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="50px" src="img/polo_digital.png">
 
-* [Óscar Manuel Díaz García]()
+* [Óscar Manuel Díaz García](https://drive.google.com/file/d/1B8n5OQzf38ikgjNzj4zUNLg1GOezjgXD/view)
 
 <hr>
 
 <img height="50px" src="img/sms-europa.png">
 
-* [Óscar Gutiérrez Quintana](https://drive.google.com/file/d/1KGB1tUvjZJowkbKPjcYFUK0nAKTMtHtY/view?usp=sharing)
+* [Óscar Gutiérrez Quintana](https://drive.google.com/file/d/1KGB1tUvjZJowkbKPjcYFUK0nAKTMtHtY/view)
 
 <hr>
 
 <img height="50px" src="img/poli.png">
 
-* [Aitor Jerez Clemente]()
+* [Aitor Jerez Clemente](https://drive.google.com/file/d/1q4MpfSAHkixNaWQULu01PaJoCfefZUb0/view)
 
 <hr>
 
 <img height="50px" src="img/evad.png">
 
-* [Alejandro Rafael Liñán Tagliaferri]()
+* [Alejandro Rafael Liñán Tagliaferri](https://drive.google.com/file/d/1c9ppQQ5YLCAmbZcxVhSL1ziYU2peiRgj/view)
 
 <hr>
 
 <img height="50px" src="img/asac.png">
 
-* [Javier Ordóñez De la Higuera]()
+* [Javier Ordóñez De la Higuera](https://www.canva.com/design/DAHLcW9Us9A/dKpXnRNjLxkscin3hDRlNQ/view)
 
 <hr>
 
 <img height="50px" src="img/dedalus.JPG">
 
 * [María Ordóñez López]()
-* [Ricardo Sánchez Zaragoza]()
+* [Ricardo Sánchez Zaragoza](https://drive.google.com/file/d/1SeM7bLybbFM2URhSzMnZQ-Dwh5P637Io/view)
 
 <hr>
 
 <img height="30px" src="img/linkasoft.png">
 
-* [Juan Antonio Ruiz Gómez]()
+* [Juan Antonio Ruiz Gómez](https://drive.google.com/file/d/1IusGywdUx9nqtQZPCk5js_v5xpkoYsUy/view)
 
 <hr>
 
