@@ -46,7 +46,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="50px" src="img/sms-europa.png">
 
-* [Óscar Gutiérrez Quintana]()
+* [Óscar Gutiérrez Quintana](https://drive.google.com/file/d/1KGB1tUvjZJowkbKPjcYFUK0nAKTMtHtY/view?usp=sharing)
 
 <hr>
 
