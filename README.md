@@ -26,15 +26,15 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="50px" src="img/altaid.png">
 
-* [Lisa Jeannette Báez Lezcano]()
+* [Lisa Jeannette Báez Lezcano](https://www.canva.com/design/DAHLoaU1m_E/_njJjDPR95Aaw88IgKmpDQ/view)
 * [María del Carmen Calvo Verdaguer]()
-* [Raúl Plaza Chatulani]()
+* [Raúl Plaza Chatulani](https://drive.google.com/file/d/1c-k83DfFlGaac3JZZID2xxCKMd13ymGI/view)
 
 <hr>
 
 <img height="50px" src="img/inerttia.png">
 
-* [José Carlos Bueno Gálvez]()
+* [José Carlos Bueno Gálvez](https://drive.google.com/file/d/1eZqEsbD2bHL2xaeO701uspgVUllsdRKQ/view)
 
 <hr>
 
@@ -70,7 +70,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 
 <img height="50px" src="img/dedalus.JPG">
 
-* [María Ordóñez López]()
+* [María Ordóñez López](https://drive.google.com/file/d/1VG4sHMIthOjlZFLZIpkEzZi5aJl4Vt7m/view)
 * [Ricardo Sánchez Zaragoza](https://drive.google.com/file/d/1SeM7bLybbFM2URhSzMnZQ-Dwh5P637Io/view)
 
 <hr>
