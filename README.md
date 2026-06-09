@@ -27,7 +27,7 @@ Cada alumno debe enlazar con el repositorio donde tiene su presentación (format
 <img height="50px" src="img/altaid.png">
 
 * [Lisa Jeannette Báez Lezcano](https://www.canva.com/design/DAHLoaU1m_E/_njJjDPR95Aaw88IgKmpDQ/view)
-* [María del Carmen Calvo Verdaguer]()
+* [María del Carmen Calvo Verdaguer](https://drive.google.com/file/d/118Ai99fXTLV99QVguYvidmvmCuxYAKs9/view?usp=sharing)
 * [Raúl Plaza Chatulani](https://drive.google.com/file/d/1c-k83DfFlGaac3JZZID2xxCKMd13ymGI/view)
 
 <hr>
